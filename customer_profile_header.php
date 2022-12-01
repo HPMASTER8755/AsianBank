@@ -7,6 +7,7 @@ if($_SESSION['customer_login'] != true)
 
 }	
 
+
 ?>
 
 <html>
@@ -15,7 +16,7 @@ if($_SESSION['customer_login'] != true)
     <link rel="stylesheet" type="text/css" href="css/customer_profile_header.css" />
     <style>
     #home, #logout{
-
+    
         background-color:rgba(5, 21, 71,0.9);
         border:none;
         padding:5px;

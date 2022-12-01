@@ -4,11 +4,11 @@
 
 */
 
-/* body
+body
 {
 	background-image:url(../images/bg.jpg);
 	background-repeat:repeat;
-} */
+}
 .heading
 {
 	font-family:"Segoe UI";
@@ -36,7 +36,7 @@
 .labels
 {
 	font-family:"Segoe UI";
-	color:#FFF;
+	color:rgb(252, 153, 153);
 	font-size:15px;
 	text-shadow:0px 0px 2px #000000;
 	font-style:italic;
